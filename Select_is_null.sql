@@ -1,0 +1,1 @@
+SELECT * FROM social_network where Age is null and Gender is not null;

@@ -1,0 +1,1 @@
+SELECT * FROM practice.google_correlate where state_code in ('CA', 'OR', 'WA') and (has_nba = 1 or region = 'West')

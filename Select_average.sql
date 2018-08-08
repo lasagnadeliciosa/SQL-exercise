@@ -1,0 +1,1 @@
+SELECT avg(Age) FROM social_network where Site = 'Facebook' and Times >= 10;
